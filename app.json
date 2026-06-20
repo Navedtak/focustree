@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Pomodoro Claude App",
-    "slug": "pomodoro-claude-app",
+    "name": "FocusTree",
+    "slug": "focustree",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

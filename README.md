@@ -1,4 +1,4 @@
-# 🌱 FocusTree — Pomodoro Timer App
+# 🌱 FocusTree
 
 A beautiful Pomodoro timer app built with React Native and Expo, where a tree grows as you focus. The longer you concentrate, the more your tree flourishes.
 
@@ -49,8 +49,8 @@ All tree and weather graphics are built from pure React Native `View` shapes —
 ### Install
 
 ```bash
-git clone https://github.com/Navedtak/pomodoro-claude-app.git
-cd pomodoro-claude-app
+git clone https://github.com/Navedtak/focustree.git
+cd focustree
 npm install
 ```
 
